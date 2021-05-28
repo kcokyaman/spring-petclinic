@@ -11,5 +11,5 @@
  |___|   |_______| |___| |_______|_______|___|_|  |__|___|_______|  / / / /
  ==================================================================/_/_/_/
 
-:: Kursad  Burak Built with Spring Boot :: ${spring-boot.version}
+:: Kursad  Burak Bsilt with Spring Boot :: ${spring-boot.version}
 
